@@ -4,6 +4,6 @@ Ben Ökkeşcan
 Yazılım Mühendisliği Öğrencisiyim
 
 
-- 🌱 HTML5, CSS3, JavaScript, NodeJS öğreniyorum...
+- 🌱 HTML5, CSS3, JavaScript öğreniyorum...
 - ⚡ Web ve Oyun Geliştirmeye ilgim var. Unity2D ve ASP.NET ile kendimi C# dili üzerinde geliştirmeye de çalışıyorum.
 
