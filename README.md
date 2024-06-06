@@ -1,9 +1,9 @@
  MERHABA 👋
 
 Ben Ökkeşcan
-Yazılım Mühendisliği Öğrencisiyim
+Fırat Üniversitesi Teknoloji Fakültesi'nde Yazılım Mühendisliği Öğrencisiyim
 
 
 - 🌱 HTML5, CSS3, JavaScript öğreniyorum...
-- ⚡ Web ve Oyun Geliştirmeye ilgim var. Unity2D ve ASP.NET ile kendimi C# dili üzerinde geliştirmeye de çalışıyorum.
+- ⚡ Asp.Net Core ile dinamik web sayfaları geliştiriyorum. Bu web geliştirme becerimi yapay zeka ve IoT ile birleştirmeyi hedefliyorum.
 
